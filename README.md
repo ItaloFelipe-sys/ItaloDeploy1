@@ -53,7 +53,33 @@ $ python manage.py startapp nome-do-app
 
 $ python manage.py startapp italo
 
+inicializar um novo repositorio GIT
+
+$ git init
+
+Adicionar todos os arquivos modificados na área de preparação
+
+$ git add .
+
+Commit registra as alterações feitas nos arquivos que foram adicionados na área de preparação
+
+$ git commit -m "Base do projeto"
+
+Verificar em qual branch está.
+
+$ git branch
+
+Renomear o branch atual no GIT para main.
+
+$ git branch -M main.
+
+Adicionar um repositório remoto ao repositório local.
+
+$ git remote add origin https://github.com/ItaloFelipe-sys/ItaloDeploy1.git  
 
 
+enviar o commits locais para um repositório remoto.
+
+git push -u origin main
 
 
