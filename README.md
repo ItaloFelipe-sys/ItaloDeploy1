@@ -39,9 +39,9 @@ Criar um super usuário.
 $ python manage.py createsuperuser
 
 Usuário (leave blank to use 'italo'): admin
-Endereço de email: It4l0f5l1pe@gmail.com
-Password: 2911
-Password again: 2911
+Endereço de email: 
+Password:
+Password again: 
 
 Acessar o sistema administrativo padrão do Python.
 
